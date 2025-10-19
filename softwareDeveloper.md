@@ -1,53 +1,34 @@
-<!--
-Welcome to resume.lol !
+# Sebastien Dion
 
-This is the template you can use to get started.
+Quebec, Canada | seb.dion.dev@proton.me
 
-Easily remove personal info by using a variable follow with a second value and "||":
-
-@NAME=Real Name||Hidden Name
-
-and change @REDACTED to be true
-
-@REDACTED=true
--->
-
-@REDACTED=false
-@NAME=Sebastien Dion||Hidden
-@EMAIL=seb.dion.dev@proton.me
-@PHONE=(418) 806-1700
-@LOCATION=Quebec, Canada G3A 1J7||City, State ZIP
-@LINKEDIN=linkedin.com/in/sebastien-dion-a7109112||linkedin.com
-
-# {NAME}
-
-{LOCATION} | {PHONE} | {EMAIL}
-
-[{LINKEDIN}](https://{LINKEDIN})
+[LinkedIn](https://linkedin.com/in/sebastien-dion-dev)
 
 <div className="vertical-spacer"></div>
 
-## Technical Skills
+## Summary
 
-**Front End** | React, Javascript, TypeScript, NodeJS, CSS, styled-components
+I love to find solutions to complex problems and figure out the best way to do it.
 
-**Back End** | C#, Java, MongoDB, MySQL
+I am a front end developer with a strong background in back end. In the first 10 years of my career, I have been working mainly with the .Net technology in front and back end to build desktop and web applications. For the last eight years, I have enjoyed working as a developer, architect and tech lead using Angular, React and more recently, Kotlin
 
-**Testing/Deployment** | Jest, Cypress, Vitest, Playwright
-
-**Developer Tools** | Docker, Git, npm, Webpack, EsBuild, Vite, Babel
+I love to design and code highly easy to upgrade maintainable applications that are easy to upgrade and tested.
 
 <div className="vertical-spacer"></div>
 
 ## Software Applications
 
-### Senior Web and Mobile Developer | Codeboxx Solutions <span class="spacer"></span>Jun 2021 - Present
+### Principal Web and Mobile Developer | Codeboxx Solutions <span class="spacer"></span>Jun 2021 - Present
 
-_Create and scale a web-based high-value trading cards management system_<span class="spacer"></span>React | Typescript | Node.js | Express | styled-components | Storybook | Jest | Vitest | Cypress
+_Create and scale a web-based high-value trading cards management system_<span class="spacer"></span>React | Typescript | Node.js | Express | styled-components | Storybook | Kotlin | Java | Jest | Vitest | Cypress | Playwright
 
 Contributed to several projects for our client, eBay, including the development of Vault, an application designed to manage the storage of high-value trading cards, and an inventory management tool for tracking item locations across multiple eBay warehouses.
 
-Led the front-end team to deliver optimal applications, prioritizing both developer and user experience. Developed a React-based UI library with maintainable and expandable reusable components, which were utilized across various applications. Established the foundational architecture for these applications, ensuring they were maintainable, well-tested, and scalable.
+Contributed to and mentored developers across teams, promoting best practices that improved code quality, collaboration, and user experience.
+
+Designed and developed shared UI libraries in React and Kotlin (Jetpack Compose) with maintainable, reusable, and scalable components adopted across multiple web and Android applications.
+
+Defined and implemented the foundational architecture for these applications, ensuring long-term maintainability, testability, and scalability.
 
 <div className="vertical-spacer"></div>
 
